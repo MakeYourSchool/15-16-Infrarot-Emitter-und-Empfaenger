@@ -10,6 +10,19 @@ Infrarot-Emitter und Infrarot-Empfänger können kombiniert als Signalübertragu
 
 ----
 
+Infrarot-Empfänger
+----
+*(Seeed Studio Grove – Infrared Receiver)*
+
+<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/15_infrarot_emitter-1024x1024.jpg width=400px>
+
+Der Infrarot-Empfänger wird zu Empfangen von Signalen über infrarotes Licht eingesetzt. Als Partner kommt meist der Infrarot-Sender von Grove zum Einsatz, der die Signale generiert. Die maximale Reichweite beträgt ca. 10m. Der Empfänger kann direkt oder mithilfe des Grove Shields an einen Arduino oder Raspberry Pi angeschlossen werden. Er wird hierbei über einen digitalen Pin angesteuert.
+
+Infrarot-Emitter und Infrarot-Empfänger können kombiniert als Signalübertragung genutzt werden oder auch als Lichtschranke verwendet werden. Der Infrarot-Emitter kann ebenfalls eingesetzt werden, um Fernbedienungen zu simulieren.
+
+
+----
+
 In diesem Repository findet ihr **Bibliotheken und Beispiel-Codes**, mit denen der hier vorliegende Sensor getestet werden kann. Wir richten uns hiermit an **jeden Mentor und jede Mentorin aus dem Rahmen von Make Your School** und ermutigen euch, die hier zusammengestellten Codes **nach Bedarf** und individuell gemachten Erfahrungen **anzupassen**. Beispiele können einfach im Ordner /examples hinzugefügt oder angepasst werden. Wir versuchen das Repository regelmäßig mit Hilfe von euren Änderungsvorschlägen zu aktualisieren.
 
 Das Repository basiert grundlegend auf den veröffentlichten Informationen und Codes von Seeed Studio. 
