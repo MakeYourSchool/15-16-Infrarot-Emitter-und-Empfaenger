@@ -14,7 +14,7 @@ Infrarot-Empfänger
 ----
 *(Seeed Studio Grove – Infrared Receiver)*
 
-<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/15_infrarot_emitter-1024x1024.jpg width=400px>
+<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/16_infrarot_empfaenger-1024x1024.jpg width=400px>
 
 Der Infrarot-Empfänger wird zu Empfangen von Signalen über infrarotes Licht eingesetzt. Als Partner kommt meist der Infrarot-Sender von Grove zum Einsatz, der die Signale generiert. Die maximale Reichweite beträgt ca. 10m. Der Empfänger kann direkt oder mithilfe des Grove Shields an einen Arduino oder Raspberry Pi angeschlossen werden. Er wird hierbei über einen digitalen Pin angesteuert.
 
