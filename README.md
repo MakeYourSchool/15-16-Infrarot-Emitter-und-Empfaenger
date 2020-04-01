@@ -39,7 +39,9 @@ Das Repository basiert grundlegend auf den veröffentlichten Informationen und C
 [Repository von Seeed Studio](https://github.com/Seeed-Studio/)
 
 [Offizielles Wiki von Seeed Studio - Emitter](http://wiki.seeedstudio.com/Grove-Infrared_Emitter/)
+
 [Offizielles Wiki von Seeed Studio - Empfänger](http://wiki.seeedstudio.com/Grove-Infrared_Receiver/)
 
 [Materialkoffer von *Make Your School* - Emitter](https://www.makeyourschool.de/material/infrarot-emitter/)
+
 [Materialkoffer von *Make Your School* - Empfänger](https://www.makeyourschool.de/material/infrarot-empfaenger/)
